@@ -1,0 +1,7 @@
+div {
+    background-color: red;
+    color: hwb(0 100% 0%);
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}

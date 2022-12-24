@@ -1,0 +1,15 @@
+.regular,
+.inverted {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.regular {
+    background-color: black;
+    color: yellow
+}
+
+.inverted {
+    background-color: yellow;
+    color: black
+}
